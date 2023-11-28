@@ -1,0 +1,9 @@
+there seems to be 2 files that could deal with environment variable
+
+1. 
+~/.zprofile
+homebrew set here
+
+2. 
+~/.zshrc
+JAVA set here
